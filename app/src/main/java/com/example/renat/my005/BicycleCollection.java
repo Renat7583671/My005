@@ -25,37 +25,37 @@ public class BicycleCollection {
         bicycle = new Bicycle();
         bicycle.setName("Suzuki");
         bicycle.setPrice("200$");
-        bicycle.setImage(R.drawable.bcyc1);
+        bicycle.setImage(R.drawable.porsche_bike_fs);
         bicycles.add(bicycle);
 
         bicycle = new Bicycle();
         bicycle.setName("BMW");
         bicycle.setPrice("300$");
-        bicycle.setImage(R.drawable.bcyc2);
+        bicycle.setImage(R.drawable.porsche_bike_fs_blue);
         bicycles.add(bicycle);
 
         bicycle = new Bicycle();
         bicycle.setName("Mazda");
         bicycle.setPrice("100$");
-        bicycle.setImage(R.drawable.bcyc1);
+        bicycle.setImage(R.drawable.team_kid_200_green);
         bicycles.add(bicycle);
 
         bicycle = new Bicycle();
         bicycle.setName("Rover");
         bicycle.setPrice("50$");
-        bicycle.setImage(R.drawable.bcyc2);
+        bicycle.setImage(R.drawable.unusual_bikes_new_11);
         bicycles.add(bicycle);
 
         bicycle = new Bicycle();
         bicycle.setName("RENAULT");
         bicycle.setPrice("200$");
-        bicycle.setImage(R.drawable.bcyc1);
+        bicycle.setImage(R.drawable.cronus_baturo_1);
         bicycles.add(bicycle);
 
         bicycle = new Bicycle();
         bicycle.setName("TVR");
         bicycle.setPrice("500$");
-        bicycle.setImage(R.drawable.bcyc2);
+        bicycle.setImage(R.drawable.wsd_2009_navigator2);
         bicycles.add(bicycle);
 
 
